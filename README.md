@@ -1,6 +1,6 @@
 # ProxyUpgrade: Smart Contract Upgrade Mechanism
 
-ProxyUpgrade is a blockchain project that leverages the power of smart contracts to implement an upgradeable smart contract system. This system allows for the seamless upgrade of contract logic while preserving the state, providing a robust solution for evolving blockchain applications.
+ProxyUpgrade is a blockchain project that is meant to be used as an educational example of how to implement an upgradeable smart contract system. This system allows for the seamless upgrade of contract logic while preserving the state, providing a robust solution for evolving blockchain applications.
 
 ## Getting Started
 
